@@ -1,0 +1,12 @@
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\bin\Debug\net8.0\FileWatcherLibrary.deps.json
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\bin\Debug\net8.0\FileWatcherLibrary.dll
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\bin\Debug\net8.0\FileWatcherLibrary.pdb
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\FileWatcherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\FileWatcherLibrary.AssemblyInfoInputs.cache
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\FileWatcherLibrary.AssemblyInfo.cs
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\FileWatcherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\FileWatcherLibrary.sourcelink.json
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\FileWatcherLibrary.dll
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\refint\FileWatcherLibrary.dll
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\FileWatcherLibrary.pdb
+C:\Users\rohandassani\AzureMigrateRepos\lego2\FileWatcherLibrary\FileWatcherLibrary\FileWatcherLibrary\obj\Debug\net8.0\ref\FileWatcherLibrary.dll
